@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-adivina-la-palabra",
+  "version": "1.0.0",
+  "description": "proyecto del curso de programacion basica de js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "js",
+    "proyecto",
+    "javascript"
+  ],
+  "author": "Hosni Colina",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
